@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969768529017",
+    "project_id": "bdcrudeventos",
+    "storage_bucket": "bdcrudeventos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969768529017:android:d1143f934398721184b8a8",
+        "android_client_info": {
+          "package_name": "com.example.crudeventos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArtUCGz3G728XUOmNXEvHgIBVrxoI0bI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
